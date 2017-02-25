@@ -1,7 +1,7 @@
 # Edison_Home_Automation_Simulation
 This is a ble beacon home automation simulation project I have developed for two Electrical Engineering students at the College of Staten Island with the Intel Edison Board (Arduino Expansion Board). The Edison board will be 
 
-For the BLE I am using Bleno which is apart of the NPM package. Be sure to install the module " npm install bleno" 
+For the BLE I am using Bleno which is apart of the NPM package. Be sure to install the module with the " npm install bleno" script.
 
 
 
